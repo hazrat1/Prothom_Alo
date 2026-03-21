@@ -22,4 +22,4 @@ This repository utilizes RSS Feeds to aggregate and format content from news pla
 
 If you enjoy these daily editions and would like to receive them **automatically** delivered to your Kindle or Email every morning without any manual effort, consider supporting this project.
 
-👉 **[Click here to Request Automatic Delivery](https://feed.softloftbd.ga/dontions)**
+👉 **[Click here to Request Automatic Delivery](https://feed.softloftbd.ga/dontions.php)**
